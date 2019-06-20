@@ -1,0 +1,13 @@
+name: TNTBattle
+version: 1.0.0.0
+author: Gabriel [1Ursoo]
+api-version: 1.14
+main: br.thelast.tntbattle.main.Main
+description: Report any players
+
+commands:
+   criar:
+     description: Report any player.
+     aliases: [report]
+     permission: reportsys.player
+     usage: Use /report para reportar.
