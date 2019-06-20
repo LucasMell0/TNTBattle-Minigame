@@ -18,7 +18,7 @@ public class TeamPlayerBreak {
 		
 		//teste
 		if(team1.contains(location)) {
-			Bukkit.broadcastMessage(ColorFormat.formater("&6Um vidro do time &c&lVERMELHO &6foi quebrado!!!"));
+			Bukkit.broadcastMessage(ColorFormat.formater("&6Um vidro do time &c&lVERMELHO &6foi quebrado!!!asdasdaskjdbasjiuhkdbasikdbki"));
 			
 			double y = location.getY() - 1;
 			double x = location.getX();
